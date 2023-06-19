@@ -1,1 +1,3 @@
-# Learning_KiCAD
+My first PCB! 
+
+# :D
