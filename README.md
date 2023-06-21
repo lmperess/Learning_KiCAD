@@ -1,3 +1,1 @@
-My first PCB! 
-
-# :D
+# hola que tal
